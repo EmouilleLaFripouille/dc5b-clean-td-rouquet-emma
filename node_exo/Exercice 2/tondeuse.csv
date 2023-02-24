@@ -1,0 +1,20 @@
+Id, Nom de la tondeuse, Puissance, Autonomie, Energie 
+1,Braun,35,2 hours,3500GHz
+2,Panasonic,50,3 hours,5000GHz
+3,Remington,30,2.5 hours,3000GHz
+4,Wahl,45,2 hours,4500GHz
+5,Philips,40,4 hours,4000GHz
+6,Andis,25,1.5 hours,2500GHz
+7,Conair,20,1 hour,2000GHz
+8,Moser,55,5 hours,5500GHz
+9,Oster,30,2 hours,3000GHz
+10,Babyliss,35,3 hours,3500GHz
+11,Gillette,20,1 hour,2000GHz
+12,Jaguar,40,3.5 hours,4000GHz
+13,Moser,50,4 hours,5000GHz
+14,Norelco,30,2.5 hours,3000GHz
+15,Philips,45,3 hours,4500GHz
+16,Remington,25,1.5 hours,2500GHz
+17,Wahl,40,2.5 hours,4000GHz
+18,Braun,55,4 hours,5500GHz
+19,Andis,35,2.5 hours,3500GHz
