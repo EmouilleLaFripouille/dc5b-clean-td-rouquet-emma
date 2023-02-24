@@ -22,7 +22,7 @@ const data = [
     { id: 19, name: 'Andis', power: 35, autonomy: '2.5 hours', energy: '3500GHz' }
 ]
 
-const writeStream = fs.createWriteStream('/Users/emmarouquet/DC5B/dc5b-clean-td-rouquet-emma/node_exo/Exercice 2/tondeuse.csv');
+const writeStream = fs.createWriteStream('/Users/emmarouquet/DC5B/dc5b-clean-td-rouquet-emma/Exercices/Exercice 2/tondeuse.csv');
 
 writeStream.write('Id, Nom de la tondeuse, Puissance, Autonomie, Energie \n');
 
